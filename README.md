@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**VickutzTech/VickutzTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building my technical skill on Data Analysis
@@ -11,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about my leraning journey
 - 📫 How to reach me:https://twitter.com/Vic_kutz
 - 😄 Pronouns: ( HE, HIM HIS)
-- ⚡ Fun fact: I have never been ton dubai
+- ⚡ Fun fact: I have never been to dubai
