@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on everything that has to do with data analysis and project
 - 🤔 I’m looking for help with breaking technical concepts
 - 💬 Ask me about my leraning journey
-- 📫 How to reach me:https://twitter.com/Vic_kutz
+- 📫 How to reach me: https://twitter.com/Vic_kutz
+                       https://instagram.com/Vickutz
 - 😄 Pronouns: ( HE, HIM HIS)
 - ⚡ Fun fact: I have never been to dubai
