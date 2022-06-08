@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with breaking technical concepts
 - 💬 Ask me about my leraning journey
 - 📫 How to reach me: https://twitter.com/Vic_kutz
-                       https://instagram.com/Vickutz
+                       https://instagram.com/Vic_kutz
 - 😄 Pronouns: ( HE, HIM HIS)
 - ⚡ Fun fact: I have never been to dubai
